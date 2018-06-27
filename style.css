@@ -2,6 +2,7 @@ body{
 	background-image: url("final/live-img.jpeg");
 	background-repeat: no-repeat;
 	background-size: cover;
+    flex-wrap: wrap;
 }
 
 
@@ -73,7 +74,7 @@ li {
 .abcd{
     background-color:wheat;
     text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-family: serif;
 
 }
 
