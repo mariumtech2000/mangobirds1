@@ -2,5 +2,6 @@ body{
 	background-image: url("sky-birds-img.jpg");
 	 background-repeat: no-repeat;
     background-size: cover;
+    flex-wrap: wrap;
 
 }

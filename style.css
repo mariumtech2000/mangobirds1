@@ -1,8 +1,12 @@
 body{
+    flex-wrap: wrap;        
 	background-image: url("final/live-img.jpeg");
 	background-repeat: no-repeat;
 	background-size: cover;
-    flex-wrap: wrap;
+}
+
+img{
+    display:wrap;
 }
 
 
@@ -34,6 +38,10 @@ body{
     padding:5px;
     overflow: hidden;
     background-color:#38352c;
+}
+
+a{
+    flex-wrap: wrap;
 }
 
 li {

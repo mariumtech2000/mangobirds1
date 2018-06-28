@@ -1,3 +1,8 @@
+body > * {
+    flex-wrap: wrap;
+}
+
+
 body {
     margin: 100px 100px 150px 80px;
     background-image: url("guess-me-wp.jpg");
